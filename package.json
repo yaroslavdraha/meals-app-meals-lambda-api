@@ -1,0 +1,26 @@
+{
+  "name": "meals-app-meals-lambda-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opium-draga/meals-app-meals-lambda-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opium-draga/meals-app-meals-lambda-api/issues"
+  },
+  "homepage": "https://github.com/opium-draga/meals-app-meals-lambda-api#readme",
+  "dependencies": {
+    "aws-sdk": "^2.699.0",
+    "express": "^4.17.1",
+    "jest": "^26.0.1",
+    "lambda-local": "^1.7.3",
+    "serverless-http": "^2.5.0"
+  }
+}
