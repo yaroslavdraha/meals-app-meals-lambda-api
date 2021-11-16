@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/opium-draga/meals-app-meals-lambda-api#readme",
   "dependencies": {
-    "aws-sdk": "^2.699.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1",
     "jest": "^26.0.1",
     "lambda-local": "^1.7.3",
